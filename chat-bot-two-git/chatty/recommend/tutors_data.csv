@@ -1,0 +1,11 @@
+id,name,tags,description,courses
+1,Alice Johnson,"Python, Machine Learning, Deep Learning",Expert in Python and Machine Learning with over 5 years of experience.,"[{'id': 1, 'course': 'Introduction to Python'}, {'id': 2, 'course': 'Advanced Machine Learning'}]"
+2,Bob Smith,"Java, Data Structures, Algorithms","Specializes in Java programming, data structures, and algorithms.","[{'id': 3, 'course': 'Java Basics'}, {'id': 4, 'course': 'Data Structures in Java'}]"
+3,Catherine Lee,"Data Science, Python, SQL",Data Science expert with hands-on experience in Python and SQL.,"[{'id': 5, 'course': 'Data Science with Python'}, {'id': 6, 'course': 'SQL for Beginners'}]"
+4,David Brown,"C++, Game Development, Unreal Engine",Professional game developer with expertise in C++ and Unreal Engine.,"[{'id': 7, 'course': 'Game Development with Unreal'}, {'id': 8, 'course': 'C++ Programming'}]"
+5,Emma Wilson,"Artificial Intelligence, Python, LLM",AI specialist with a focus on Python and Large Language Models (LLMs).,"[{'id': 9, 'course': 'AI with Python'}, {'id': 10, 'course': 'Introduction to LLMs'}]"
+6,Frank Miller,"Web Development, JavaScript, React","Experienced web developer proficient in JavaScript, React, and front-end technologies.","[{'id': 11, 'course': 'React for Beginners'}, {'id': 12, 'course': 'JavaScript Essentials'}]"
+7,Grace Kim,"Cloud Computing, AWS, Docker",Cloud computing expert with deep knowledge of AWS and containerization using Docker.,"[{'id': 13, 'course': 'AWS Cloud Essentials'}, {'id': 14, 'course': 'Docker Basics'}]"
+8,Henry Adams,"Cybersecurity, Network Security, Ethical Hacking",Cybersecurity professional with a focus on ethical hacking and network security.,"[{'id': 15, 'course': 'Ethical Hacking 101'}, {'id': 16, 'course': 'Network Security Basics'}]"
+9,Isabella Garcia,"Mobile Development, Android, Kotlin",Mobile app developer with expertise in Android and Kotlin.,"[{'id': 17, 'course': 'Android Development with Kotlin'}, {'id': 18, 'course': 'Advanced Android Techniques'}]"
+10,James Clark,"Data Engineering, Python, Spark",Experienced data engineer specializing in Python and distributed systems using Apache Spark.,"[{'id': 19, 'course': 'Data Engineering with Python'}, {'id': 20, 'course': 'Distributed Systems with Spark'}]"
